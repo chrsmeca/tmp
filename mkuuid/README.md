@@ -1,0 +1,1 @@
+## Prints a random UUID.
